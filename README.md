@@ -1,3 +1,7 @@
+# What I did 
+- 3 react components routed in VendingMachine
+- looks ugly
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
